@@ -10,14 +10,17 @@ This repo is an example of a team project repository that meets all of [the repo
 * We anticipate the following challenges: x, y, z.
 
 ## Team Information
-Richie Goulazian
+Jakob Ross
 * Pitt CS, 2023
-* rgoulazian@pitt.edu
-* Richie78321 in the CSC Discord
-* Check out my portfolio site! https://rgoulazian.com/
+* jjr113@pitt.edu
+* Code Wizard
 
-Ming Wang
-* Pitt CS, 2022
-* zhw78@pitt.edu
-* He smells
-* https://www.linkedin.com/in/zhengmingwang/
+Kai Wisniewski
+* Pitt CS/IS, 2023
+* kaw260@pitt.edu
+* Code Wizard
+
+Hayden Terek
+* Pitt CS, 2023
+* hdt4@pitt.edu
+* Code Wizard
