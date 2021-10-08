@@ -24,3 +24,8 @@ Hayden Terek
 * Pitt CS, 2023
 * hdt4@pitt.edu
 * Code Wizard
+
+Michael Lorenzo Justin Henry
+* Pitt CS, 2024
+* mlh184@pitt.edu
+* Code Wizard
