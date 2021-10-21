@@ -8,6 +8,8 @@ This repo is an example of a team project repository that meets all of [the repo
 * We want to do this because of x, y, z.
 * Doing this will require learning x, y, z.
 * We anticipate the following challenges: x, y, z.
+## MVP Demo
+*1. 
 
 ## Team Information
 Jakob Ross
