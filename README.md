@@ -9,7 +9,24 @@ This repo is an example of a team project repository that meets all of [the repo
 * Doing this will require learning x, y, z.
 * We anticipate the following challenges: x, y, z.
 ## MVP Demo
-*1. 
+1. Downloading and Running MVP
+  a. Download MVPv1.zip
+  b. Extract MVPv1.zip to desired folder.
+  c. Open MVPv1 folder
+  d. Open FOr folder
+  e. Open dist folder
+  f. Open FOr.jar
+2. Navigating MVP
+  a. Click 'Create Zip' button
+  b. Choose 'School' option for 'This zip is for'
+  c. Choose which type of student you are.
+  d. Check which years you would like to keep track of.
+  e. For the years you selected, choose how many semesters you would like to keep track of.
+  f. Check which semesters you would like to keep track of.
+  g. Add the class names you would like to keep track of for the semester(s) you checked.
+  h. Press the "Done" button when finished satisfied with the classes added.
+  i. Choose the folder you would like to put the zip file.
+  j. Youre done! You just made a School.zip file!!
 
 ## Team Information
 Jakob Ross
