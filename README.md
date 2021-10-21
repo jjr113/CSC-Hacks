@@ -17,7 +17,7 @@
     5. For the years you selected, choose how many semesters you would like to keep track of.
     6. Check which semesters you would like to keep track of.
     7. Add the class names you would like to keep track of for the semester(s) you checked.
-    8. Press the "Done" button when finished satisfied with the classes added.
+    8. Press the "Done" button when satisfied with the classes added for each semester checked.
     9. Choose the folder you would like to put the zip file.
     10. Youre done! You just made a School.zip file!!
 
