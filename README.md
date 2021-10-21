@@ -1,13 +1,8 @@
 # CSC Hacks Sample Project Repo
-
-This repo is an example of a team project repository that meets all of [the repository requirements](https://www.notion.so/CSC-Hacks-901a62e005c8494fa342e0cc738101ad#da206965e3ed497f9bd6c1ceebd4fac9). Feel free to download / clone this repository as a starting point.
-
 ## Project Description
-*This is intentionally open-ended, but consider that people will be reading this to get a brief understanding of what you're working on.* Some ideas are:
-* We want to accomplish x, y, z, using technologies x, y, z.
-* We want to do this because of x, y, z.
-* Doing this will require learning x, y, z.
-* We anticipate the following challenges: x, y, z.
+*name of app* is an app that helps students (and anybody else) manage their files by automatically producing a personalized .zip file and adding folders to it, organizing files automatically, and much more. The user will be able to fully customize a .zip file and the folders included inside it, but they will also be able to automate folders by completing a short, personalized survey. By creating a user profile from this survey, this will enable the user to revisit the app if needed and have all their information saved within the app. This app will also include a feature that will organize a directory of your choice into different folders.
+    a. in order
+    b. 
 ## MVP Demo
 1. Downloading and Running MVP
     1. Download MVPv1.zip
