@@ -10,12 +10,12 @@ This repo is an example of a team project repository that meets all of [the repo
 * We anticipate the following challenges: x, y, z.
 ## MVP Demo
 1. Downloading and Running MVP
-  a. Download MVPv1.zip
-  b. Extract MVPv1.zip to desired folder.
-  c. Open MVPv1 folder
-  d. Open FOr folder
-  e. Open dist folder
-  f. Open FOr.jar
+  1. Download MVPv1.zip
+  2. Extract MVPv1.zip to desired folder.
+  3. Open MVPv1 folder
+  4. Open FOr folder
+  5. Open dist folder
+  6. Open FOr.jar
 2. Navigating MVP
   a. Click 'Create Zip' button
   b. Choose 'School' option for 'This zip is for'
