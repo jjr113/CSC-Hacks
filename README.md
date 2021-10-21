@@ -13,7 +13,7 @@
     1. Click 'Create Zip' button
     2. Choose 'School' option for 'This zip is for'
     3. Choose which type of student you are.
-    4. Check which years you would like to keep track of.
+    4. Check which years you would like to keep track of. (Note that we only implemented the years 2020-2021 and 2021-2022 but this will change)
     5. For the years you selected, choose how many semesters you would like to keep track of.
     6. Check which semesters you would like to keep track of.
     7. Add the class names you would like to keep track of for the semester(s) you checked.
