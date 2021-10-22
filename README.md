@@ -21,10 +21,16 @@
     9. Choose the folder you would like to put the zip file.
     10. Youre done! You just made a School.zip file!!
 3. Organize Directory (READ STEPS BEFORE PRESSING BUTTON)
-    1. Make a copy of a folder/directory that has a decent amount of files/folders inside (this is in the testing stages so to be safe it is recommended making a copy of a folder/directory)
-    2. Press Organize Directory on app
-    3. Go to the copied folder you just made and press 'open' after opening it.
-    4. Youre done! You just organized a directory!!
+    1. Download MVPv2.zip
+        1. Extract MVPv2.zip to desired folder.
+        2. Open MVPv2 folder
+        3. Open FOr folder
+        4. Open dist folder
+        5. Open FOr.jar
+    2. Make a copy of a folder/directory that has a decent amount of files/folders inside (this is in the testing stages so to be safe it is recommended making a copy of a folder/directory)
+    3. Press Organize Directory on app
+    4. Go to the copied folder you just made and press 'open' after opening it.
+    5. Youre done! You just organized a directory!!
 
 ## Team Information
 Jakob Ross
