@@ -9,7 +9,7 @@
     4. Open FOr folder
     5. Open dist folder
     6. Open FOr.jar
-2. Navigating MVP
+2. Navigating MVP Create Zip
     1. Click 'Create Zip' button
     2. Choose 'School' option for 'This zip is for'
     3. Choose which type of student you are.
@@ -20,6 +20,11 @@
     8. Press the "Done" button when satisfied with the classes added for each semester checked.
     9. Choose the folder you would like to put the zip file.
     10. Youre done! You just made a School.zip file!!
+3. Organize Directory (READ STEPS BEFORE PRESSING BUTTON)
+    1. Download "Junk.zip" and extract it to your downloads directory (this will not dump all the files in that folder, it will only extract a folder with other folders/files in it)
+    2. Press Organize Directory on app
+    3. Go to the Junk folder you just extracted and press 'open' after opening the Junk folder.
+    4. Youre done! You just organized a directory!!
 
 ## Team Information
 Jakob Ross
