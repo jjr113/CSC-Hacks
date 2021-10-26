@@ -2,6 +2,7 @@
 ## Project Description
 *name of app* is an app that helps students (and anybody else) manage their files by automatically producing a personalized .zip file and adding folders to it, organizing files automatically, and much more. The user will be able to fully customize a .zip file and the folders included inside it, but they will also be able to automate folders by completing a short, personalized survey. By creating a user profile from this survey, this will enable the user to revisit the app if needed and have all their information saved within the app. This app will also include features that will organize a directory of your choice into different folders, scan syllabus pdfs to make a folder for the specified classes, and much more.
 ## MVP Demo
+This is currently only working for windows as we are in the process of making it work for mac.
 1. Downloading and Running MVP
     1. Download MVPv1.zip
     2. Extract MVPv1.zip to desired folder.
