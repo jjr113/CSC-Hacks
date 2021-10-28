@@ -5,7 +5,7 @@
 This is currently only working for windows as we are in the process of making it work for mac.
 1. Downloading and Running MVP
     1. Download MVPv1.zip
-    2. Extract MVPv1.zip to Program Files(windows) or Applications (mac) folder.
+    2. Extract MVPv1.zip to Program Files(windows).
     3. Open MVPv1 folder
     4. Open FOr folder
     5. Open dist folder
@@ -23,7 +23,7 @@ This is currently only working for windows as we are in the process of making it
     10. Youre done! You just made a School.zip file!!
 3. Organize Directory (READ STEPS BEFORE PRESSING BUTTON)
     1. Download MVPv2.zip
-        1. Extract MVPv2.zip to Program Files(windows) or Applications (mac) folder.
+        1. Extract MVPv2.zip to Program Files(windows).
         2. Open MVPv2 folder
         3. Open FOr folder
         4. Open dist folder
