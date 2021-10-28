@@ -5,7 +5,7 @@
 This is currently only working for windows as we are in the process of making it work for mac.
 1. Downloading and Running MVP
     1. Download MVPv1.zip
-    2. Extract MVPv1.zip to desired folder.
+    2. Extract MVPv1.zip to Program Files(windows) or Applications (mac) folder.
     3. Open MVPv1 folder
     4. Open FOr folder
     5. Open dist folder
